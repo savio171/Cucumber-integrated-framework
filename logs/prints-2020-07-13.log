@@ -1,0 +1,12 @@
+20:55:08.068 [TestNG-tests-1] INFO  Framework.ValidateTitle - Navigated to Homepage
+20:55:13.162 [TestNG-tests-2] INFO  Framework.ValidateNavigationBar - Successfully validated text message
+20:55:16.032 [TestNG-tests-3] INFO  Framework.HomePage - restricted user
+20:55:27.201 [TestNG-tests-3] INFO  Framework.HomePage - nonrestricted user
+20:56:16.995 [TestNG-tests-1] INFO  Framework.ValidateTitle - Driver is initialized
+20:56:25.129 [TestNG-tests-1] INFO  Framework.ValidateTitle - Navigated to Homepage
+20:56:29.120 [TestNG-tests-2] INFO  Framework.ValidateNavigationBar - Successfully validated text message
+20:56:30.274 [TestNG-tests-3] INFO  Framework.HomePage - restricted user
+20:56:34.829 [TestNG-tests-3] INFO  Framework.HomePage - nonrestricted user
+21:35:21.631 [main] INFO  Framework.ValidateTitle - Driver is initialized
+21:35:25.937 [main] INFO  Framework.ValidateTitle - Navigated to Homepage
+21:35:42.715 [main] INFO  Framework.ValidateNavigationBar - Successfully validated text message

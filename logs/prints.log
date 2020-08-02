@@ -1,0 +1,3 @@
+23:09:31.658 [TestNG-tests-3] INFO  Framework.HomePage - restricted user
+23:09:33.575 [TestNG-tests-2] INFO  Framework.ValidateNavigationBar - Successfully validated text message
+23:09:36.907 [TestNG-tests-3] INFO  Framework.HomePage - nonrestricted user
